@@ -64,4 +64,4 @@ Adjust the slider settings, such as:
 
 Click **Save** to apply the settings to your store.
 
-## Download Our [Shopify Collection Slider Section](https://meetanshi.com/shopify-collection-slider-section.html) App
+## Download Our [Shopify Collection Slider Section](https://meetanshi.com/shopify-collection-slider-section.html)
