@@ -24,7 +24,7 @@ Customize the slider to perfectly align with your store’s branding and unique 
 
 Showcase your collections effectively with versatile display options, including the ability to switch between grid and carousel layouts or enable dynamic auto-slide for effortless browsing.
 
-## **Extension Installation**
+## **Section Installation**
 
 Our Shopify Collection Slider Section is simple to install and use, with no need for a developer or additional apps.
 
